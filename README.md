@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Suhansa Tharusha Bandara!
 
-<!--
-**Dev-Tharusha2005/Dev-Tharusha2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final year Software Engineering Undergraduate  
+🏫 Java Institute for Advanced Technology, Sri Lanka  
+📍 Passionate about building apps, websites, and visual content  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Skills & Technologies
+
+- 💻 **Web Development**: HTML, CSS, JS, Bootstrap, PHP, Java Servlet  
+- 🧠 **Backend & DB**: MySQL, Firebase  
+- 📱 **Mobile Development**: Android (Java), Firebase  
+- 💡 **Software Development**: Java, Desktop Applications  
+- 🎨 **Graphic Design**: Photoshop, Illustrator, Canva
+
+---
+
+### 🔭 Projects & Goals
+
+- 🔧 Working on full-stack web & mobile apps  
+- 📦 Building real-time chat apps with Firebase and MySQL  
+- 🌱 Learning React Native and Spring Boot  
+- 🚀 Goal: Become a Full Stack Developer  
+
+---
+
+### 📫 Connect with me
+
+- 📧 Email: `tharushaweb2005@gmail.com`  
+- 🔗 LinkedIn: [Suhansa Tharusha](https://www.linkedin.com/in/suhansa-tharusha-11104a298/)  
+- 🌐 Portfolio: *Coming soon...*  
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
