@@ -7,7 +7,6 @@
 ---
 
 ### 💼 Skills & Technologies
-
 - 💻 **Web Development**: HTML, CSS, JS, Bootstrap, PHP, Java Servlet  
 - 🧠 **Backend & DB**: MySQL, Firebase  
 - 📱 **Mobile Development**: Android (Java), Firebase  
