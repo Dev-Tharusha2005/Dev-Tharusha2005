@@ -29,8 +29,6 @@
 
 - 📧 Email: `tharushaweb2005@gmail.com`  
 - 🔗 LinkedIn: [Suhansa Tharusha](https://www.linkedin.com/in/suhansa-tharusha-11104a298/)  
-- 🌐 Portfolio: [Suhansa Tharusha](https://tharusha-dev.free.nf/)
-
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
