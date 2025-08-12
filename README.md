@@ -8,12 +8,12 @@
 
 ### 💼 Skills & Technologies
 - 💻 **Web Development**: HTML, CSS, JS, Bootstrap, PHP, Java, Spring Boot
-- 🧠 **Backend & DB**: MySQL, Firebase  
-- 📱 **Mobile App Development**: Android (Java), Spring Boot, Firebase, MySql  
+- 🧠 **DB**: MySQL, Firebase  
+- 📱 **Mobile App Development**: Android (Java), Java, Firebase, MySql  
 - 💡 **Software Development**: Java, Desktop Applications, OOPC (Object-Oriented Programming Concepts), OODP (Object-Oriented Design Principles)  
 - 📋 **Project Management**: Basics of planning, task tracking, and team collaboration  
 - 🧪 **Quality Assurance**: Fundamentals of QA, basic software testing techniques  
-- 🎨 **Graphic Design**: Photoshop, Illustrator, Canva
+- 🎨 **Graphic Design**: Photoshop, Canva
 
 
 ### 🔭 Projects & Goals
