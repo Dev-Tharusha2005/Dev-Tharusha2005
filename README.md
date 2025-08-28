@@ -1,34 +1,37 @@
 # 👋 Hi, I'm Suhansa Tharusha Bandara!
 
-🎓 Final year Software Engineering Undergraduate  
+🎓 Final Year **BEng (Hons) Software Engineering** Undergraduate  
 🏫 Java Institute for Advanced Technology, Sri Lanka  
-📍 Passionate about building apps, websites, and visual content  
+📍 Passionate about building apps, websites, and software solutions  
 
 ---
 
-### 💼 Skills & Technologies
-- 💻 **Web Development**: HTML, CSS, JS, Bootstrap, PHP, Java, Spring Boot
-- 🧠 **DB**: MySQL, Firebase  
-- 📱 **Mobile App Development**: Android (Java), Java, Firebase, MySql  
-- 💡 **Software Development**: Java, Desktop Applications, OOPC (Object-Oriented Programming Concepts), OODP (Object-Oriented Design Principles)  
-- 📋 **Project Management**: Basics of planning, task tracking, and team collaboration  
-- 🧪 **Quality Assurance**: Fundamentals of QA, basic software testing techniques  
-- 🎨 **Graphic Design**: Photoshop, Canva
+## 💼 Skills & Technologies
 
-
-### 🔭 Projects & Goals
-
-- 🔧 Working on full-stack web & mobile apps  
-- 📦 Building real-time chat apps with Firebase and MySQL  
-- 🌱 Learning React Native and Spring Boot  
-- 🚀 Goal: Become a Full Stack Developer  
+- 💻 **Web Development:** HTML, CSS, JavaScript, Bootstrap, PHP, Java, React.js  
+- 🧠 **Databases:** MySQL, Firebase  
+- 📱 **Mobile App Development:** React Native, Android (Java), Firebase, MySQL  
+- 💡 **Software Development:** Java, Desktop Applications, OOP, Design Patterns  
+- 📋 **Project Management:** Task planning, team collaboration  
+- 🧪 **Quality Assurance:** Basics of software testing  
+- 🎨 **Graphic Design:** Photoshop, Canva  
 
 ---
 
-### 📫 Connect with me
+## 🔭 Projects & Goals
+
+- 🔧 Building **full-stack web and mobile applications**  
+- 📦 Developing **real-time chat apps** using Firebase and MySQL  
+- 🌱 Learning advanced **React Native and full-stack development**  
+- 🚀 Goal: Become a skilled **Full Stack Developer**  
+
+---
+
+## 📫 Connect with Me
 
 - 📧 Email: `tharushaweb2005@gmail.com`  
 - 🔗 LinkedIn: [Suhansa Tharusha](https://www.linkedin.com/in/suhansa-tharusha-11104a298/)  
+
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
