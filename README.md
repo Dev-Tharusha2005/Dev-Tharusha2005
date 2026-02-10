@@ -31,6 +31,7 @@
 
 - 📧 Email: `tharushaweb2005@gmail.com`  
 - 🔗 LinkedIn: [Suhansa Tharusha](https://www.linkedin.com/in/suhansa-tharusha-11104a298/)  
+- 🔗 Portfolio: [Suhansa Tharusha](https://tharusha.free.nf/)  
 
 ---
 
