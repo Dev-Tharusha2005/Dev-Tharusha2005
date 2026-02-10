@@ -34,5 +34,3 @@
 - 🔗 Portfolio: [Suhansa Tharusha](https://tharusha.free.nf/)  
 
 ---
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
